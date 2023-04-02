@@ -109,6 +109,8 @@
   "trials.bounty.flawless": "🔫",
   "trials.bounty.perfect": "🔫",
   "trials.bounty.reward": "🔫",
+  "trials.bounty.reward.no": "🔫",
+  "trials.bounty.reward.no.description": "🔫",
   "trials.collection.triumphs": "🔫",
   "trials.guess": "🔫",
   "trials.history": "🔫",
