@@ -109,6 +109,7 @@
   "trials.informations": "Informations",
   "trials.informations.common": "Weapons are the same for all Guardians. Try not to spoil.",
   "trials.informations.next": "Next bounties:",
+  "trials.input.empty": "Weapon not found. Invalid name or excluded from search.",
   "trials.input.placeholder": "Type a weapon name",
   "trials.presentation.aspiring": "Complete this bounty flawlessly and you'll have a 50% chance of receiving an engram you don't have",
   "trials.presentation.daily": "Complete this bounty and receive a random engram",

@@ -109,6 +109,7 @@
   "trials.informations": "Informations",
   "trials.informations.common": "Les armes à trouver sont communes à tous les Gardiens. Évitez de spoil.",
   "trials.informations.next": "Prochains contrats :",
+  "trials.input.empty": "Arme introuvable. Nom incorrect ou exclue de la recherche.",
   "trials.input.placeholder": "Taper un nom d'arme",
   "trials.presentation.aspiring": "Complétez ce contrat sans faute et vous aurez 50% de chance de recevoir un engramme que vous ne possédez pas",
   "trials.presentation.daily": "Complétez ce contrat pour recevoir un engramme aléatoire",
