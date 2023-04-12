@@ -8,7 +8,7 @@
   "bounty.daily.description": "Pour s'échauffer avant de passer aux autres épreuves que Banshee-44 vous réserve. Détendez-vous et prenez votre temps.",
   "bounty.done": "{{bounty}} terminé.",
   "bounty.secret": "C'est étrange",
-  "bounty.secret.description": "Banshee-44 ne se rappel pas vous avoir fourni un tel contrat. La réponse à ce mystère n'est peut-être pas ici...",
+  "bounty.secret.description": "Banshee-44 ne se rappelle pas vous avoir fourni un tel contrat. La réponse à ce mystère n'est peut-être pas ici...",
   "bounty.true": "Contrat d'Authentique Armurier",
   "bounty.true.description": "L'épreuve ultime que Banshee-44 vous réserve. Vous n'aurez qu'un seul essai pour terminer ce contrat sans faute.",
   "bounty.twitter": "#TrialsOfBanshee {{bounty}} complété en {{attempts}} essai(s) !\n\n",
